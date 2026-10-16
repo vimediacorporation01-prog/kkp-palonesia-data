@@ -1,5 +1,13 @@
 [
   {
+    "word": "apa",
+    "phonetics": "/a.pa/",
+    "pos": "p",
+    "register": "Baku",
+    "definition": "[MY] Kata tanya, menanyakan sesuatu hal, mengenai sesuatu. Apa-itu, apa-?, apa-benda, apa-menanyakan.",
+    "example": ""
+  },
+  {
     "word": "palonesia",
     "phonetics": "/pa.lo.ne.sia/",
     "pos": "n",
@@ -8,5 +16,3 @@
     "example": "Penggunaan bahasa Palonesia diatur dalam undang-undang negara."
   }
 ]
-
-
