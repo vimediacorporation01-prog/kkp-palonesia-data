@@ -1,5 +1,13 @@
 [
   {
+    "word": "nihil",
+    "phonetics": "/ni.hil/",
+    "pos": "a",
+    "register": "Baku",
+    "definition": "kosong, tidak ada apa-apa, semua hadir (tidak ada siapapun yang tidak hadir), tidak ditemukan apapun.",
+    "example": ""
+  },
+  {
     "word": "budak",
     "phonetics": "/bu.dak/",
     "pos": "n",
