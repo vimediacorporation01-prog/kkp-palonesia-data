@@ -1,5 +1,13 @@
 [
   {
+    "word": "-kan",
+    "phonetics": "/kan/",
+    "pos": "adv",
+    "register": "Baku",
+    "definition": "Pasangan suatu kalimat untuk menambah. menambahkan elemen seperti perintah, atau ajakan.",
+    "example": ""
+  },
+  {
     "word": "andai",
     "phonetics": "/an.dai/",
     "pos": "n",
